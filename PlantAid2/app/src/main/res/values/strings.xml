@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Plant Aid</string>
+
+    <string-array name="plants">
+        <item>Aloe Vera</item>
+        <item>Mint</item>
+        <item>Sun Flower</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Good for skin</item>
+        <item>Good medicinal uses</item>
+        <item>Helps keeps stress away</item>
+    </string-array>
+
+    <string name="title">Welcome to the App</string>
+</resources>
